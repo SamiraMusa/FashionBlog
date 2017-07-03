@@ -87,7 +87,7 @@ nav img{
 	background: #CE5374;
 }
 .row img{
-	width: 46%;
+	width: 50%;
 	display: inline;
 	float: left;
 
@@ -95,14 +95,14 @@ nav img{
 
 .post{
 	display: inline;
-	width: 54%;
+	width: 50%;
 	float: left;
 	padding-left: 10px;
 	padding-right: 10px;
 	color: white;
 }
 .row img:nth-child(2){
-	width: 46%;
+	width: 50%;
 	display: inline;
 	float: right;
 
